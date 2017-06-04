@@ -38,7 +38,8 @@ function SelectLanguage(props) {
     'Ruby',
     'Java',
     'CSS',
-    'Python'
+    'Python',
+    'Golang'
   ];
 
   return (
