@@ -1,3 +1,5 @@
 /node_modules
 /dist
 /.gitignore
+/npm-debug.log
+/firebase-debug.log
